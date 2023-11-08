@@ -1,7 +1,8 @@
-/*Д/з Напишите метод, который добавляет 500000 элементов в ArrayList и LinkedList
+package dz11;/*Д/з Напишите метод, который добавляет 500000 элементов в ArrayList и LinkedList
 и измерьте время, которое потрачено на это. Сравните результаты.
  */
 
+import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
